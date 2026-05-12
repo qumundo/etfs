@@ -5,7 +5,7 @@ Documentation, Examples, FAQ, Terms & Conditions and License: [https://www.qumun
 
 If you see a feature that is missing or not correctly enforced, please [open an issue](https://github.com/qumundo/etfs/issues).
 
-_You can find example filter parameter (key) and response schema in the JSON file here: [example.json](https://github.com/qumundo/etfs/blob/main/lib/example.json)_
+_You can find example filter parameter (key) and response schema in the JSON file here: [example.json](https://github.com/qumundo/etfs/blob/main/res/example.json)_
 
 **:de: Crafted in Frankfurt am Main, Germany.**
 
