@@ -1,6 +1,6 @@
 {
   "name": "@qumundo/etfs",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "description": "Access daily fund and etf information, analytics and insights including reference data, holdings data and primary market data.",
   "homepage": "https://github.com/qumundo/etfs",
   "author": {
@@ -29,7 +29,7 @@
   "files": [
     "index.js",
     "lib",
-    "res" 
+    "res"
   ],
   "keywords": [
     "fund",
