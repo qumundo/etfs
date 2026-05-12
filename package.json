@@ -1,0 +1,65 @@
+{
+  "name": "@qumundo/etfs",
+  "version": "0.9.0",
+  "description": "Access daily fund and etf information, analytics and insights including reference data, holdings data and primary market data.",
+  "homepage": "https://github.com/qumundo/etfs",
+  "author": {
+    "name": "Qumundo e.K.",
+    "email": "dev@qumundo.com",
+    "url": "https://www.qumundo.com"
+  },
+  "license": "COPYRIGHT © 2026, Qumundo e.K.. All rights reserved.",
+  "licenses": [
+    {
+      "type": "Copyright © 2026, Qumundo e.K.. All rights reserved.",
+      "url": "https://github.com/qumundo/etfs/blob/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/qumundo/etfs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/qumundo/etfs/issues"
+  },
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "fund",
+    "funds",
+    "etf",
+    "etfs",
+    "Exchange Traded Fund",
+    "Exchange Traded Funds",
+    "investment",
+    "investing",
+    "wealth",
+    "security",
+    "securities",
+    "stock",
+    "stocks",
+    "equity",
+    "equities",
+    "bond",
+    "bonds",
+    "exchange",
+    "exchanges",
+    "market",
+    "markets",
+    "legal entity",
+    "legal entities",
+    "company",
+    "companies",
+    "corporate",
+    "corporates",
+    "capital",
+    "capital markets",
+    "data",
+    "API"
+  ]
+}
