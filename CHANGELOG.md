@@ -1,6 +1,12 @@
 Changelog
 =========
 
+## 0.9.4 (2026-05-12)
+
+### Bug Fixes
+
+* Fixed package.json "files" to be pushed to npm [[@qumundo](https://github.com/qumundo)].
+
 ## 0.9.3 (2026-05-12)
 
 ### Bug Fixes
